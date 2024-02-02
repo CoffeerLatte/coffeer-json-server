@@ -33,6 +33,7 @@ http://localhost:3000/profile
 #From
 
 https://www.npmjs.com/package/json-server
+<<<<<<< HEAD
 
 #Deploy
 ```sh
@@ -40,3 +41,5 @@ flyctl deploy
 ```
 
 
+=======
+>>>>>>> main
